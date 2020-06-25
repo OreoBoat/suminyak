@@ -1,13 +1,13 @@
-## Guide on using Composer Soon extension
+## [Guide] Composer Soon extension
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-grammas-recipe.svg)](https://forthebadge.com)
 
 ## Status
 
-### macOS Chrome   : Working, no issue observed.
-### Windows Chrome : Working, but issue observed. Please see this [section](##Observed-Issues)
-### Windows Opera  : Working, no issue observed.
+> ### macOS Chrome   : Working, no issue observed.
+> ### Windows Chrome : Working, but issue observed. Please see this [section](##observed-Issues)
+> ### Windows Opera  : Working, no issue observed.
 
 
 ## Things to Note
