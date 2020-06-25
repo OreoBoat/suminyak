@@ -113,12 +113,10 @@ You can just click the `.pdf` link regularly and continue the steps. Although yo
 And that's it. Enjoy boiii.
 
 
-======================================================================
+-----------------------------------------------------------------------
 
 
 ## Observed Issues
-
------------------------------------------------------------------------
 
 ### If the alert boxes is popped out of the window.
 
