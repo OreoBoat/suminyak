@@ -16,9 +16,11 @@
 ### Do this first then continue according to your operating system platform
 1. Go to this link `https://github.com/OreoBoat/suminyak`
 2. Click **[Download ZIP]**
+
 [![Image](https://i.ibb.co/TRPzYt3/Screenshot-2563-06-25-at-7-18-09-PM.png)](https://ibb.co/q9mb7pQ)
-3. After download completes, unzip it and place it to your desired location.
-4. You're done here, please continue according to your OS platform below.
+
+3. After the download is completed, unzip it and place it to your desired location.
+4. Then you're done here, please continue according to your OS platform below.
 
 ## macOS extension installation
 1. Download Chrome if you haven't already. (Go to step 4 if you have installed chrome on your macOS)
@@ -27,7 +29,7 @@
 4. Fire up your friendly browser and click [Window] from the upside toolbar. Then click [Extensions]
 5. If you're having having trouble to find the [Window] or [Extensions] tab. Just click `⌘ + T` on your keyboard and paste this `chrome://extensions/` into your address tab.
 6. After all, you should be in the extensions window. Check for [Developer Mode] on the top-right of your window and enable it.
-7. You should see three buttons came up. Click [Load Unpacked] then choose the folder that you have just unzipped.
+7. You should see three buttons came up. Click [Load Unpacked] then choose the folder that you have unzipped during the **Installation Procedure** step.
 8. Then, if you want to use it in incognito tabs, just click [Details] and scroll down until you see [Allow in incognito] and enable it.
 9. Moreover, if you want all PDF links to be downloaded instantly. (Meaning to say you don't have to click [Download] button to download the pdf)
 10. Just open a new tab to `chrome://settings/content/pdfDocuments` and enable the setting.
@@ -41,13 +43,14 @@
 > They are technically the same browser but just use the one that suits your taste.
 
 ## Opera or Opera GX or Chrome extension installation (Windows)
-1. Download Opera or Opera GX or Chrome if you haven't. (I'm going to skip software installation step)
+1. Download Opera or Opera GX or Chrome if you haven't. (I'm going to skip the software installation step)
 2. Fire up your browser and go to the [Extensions] tab. 
 3. If you are having trouble to find the [Extensions] tab. Just open up a new tab and paste this `chrome://extensions`.
 4. There, you will see the [Developer Mode] on the top-right of the window. Then, just enable it.
-5. Then, three buttons should showed up. Just click the [Load Unpacked] then select the folder that you have unzipped from **Installation Procedure** step
+5. Then, three buttons should showed up. Just click the [Load Unpacked] then select the folder that you have unzipped during the **Installation Procedure** step.
 6. After that, you can click the [Allow in incognito] button if you want to use it on private tabs.
-7. Then if you want the all pdf links to be downloaded instantly. (Meaning to say you don't want to click [Download] to download the pdf)
+*For chrome you have to click [Details] and scroll down to enable [Allow in incognito]*
+7. Then if you want the all pdf links to be downloaded instantly. (Meaning to say you don't want to click [Download] button to download the pdf)
 8. Just open a new tab to `chrome://settings/content/pdfDocuments` then enable the setting.
 9. Then your new friend is ready. Please refer to **USAGE GUIDE** below to getting know your new friend.
 
@@ -74,7 +77,7 @@ For **Opera GX**
 -----------------------------------------------------------------------
 
 ## Usage of extension
-Typically this extension won't do anything until the website you are going matches `www.icom.org.cn` or `icom.org.cn`
+Typically this extension won't do anything until the website you are surfing matches `www.icom.org.cn` or `icom.org.cn`
 1. So just login to your coda as usual. 
 2. Then, once you're in the [Semester] Page. We'll have to part ways for **Chrome** and **Opera or Opera GX** now.
 
@@ -97,13 +100,13 @@ Finally, if you have enabled the PDF automatic download option. You should have 
 
 For **Opera or Opera GX**
 
-> Actually, this browser is a bit special that it still has the toolbar there after loading up popups.
+> Actually, this browser is a bit special that it still has the toolbar present after loading up popup windows.
 
 So that means, you can just follow the **For Chrome** usage guide above. 
 
 But, there's only one difference. And that's you don't have to open the `.pdf` link in a new tab in order to use the extension. 
 
-You can just click the `.pdf` link regularly and continue the steps although you can still open it in a new tab if you want to.
+You can just click the `.pdf` link regularly and continue the steps. Although you can still open it in a new tab if you want to.
 
 And that's it. Enjoy boiii.
 
