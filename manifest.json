@@ -1,0 +1,27 @@
+{
+    "name": "Composer Soon",
+    "version": "1.0",
+    "description": "This extension will compose music automatically for you. Just kidding.",
+    "icons": {
+        "19": "images/19.png",
+        "38": "images/48.png",
+        "48": "images/48.png",
+        "128": "images/icon.png"
+    },
+    "permissions": [
+        "declarativeContent", 
+        "storage", 
+        "tabs",
+        "notifications",
+        "http://*/",
+        "https://*/"
+    ],
+    "background": {
+        "scripts": ["background.js"],
+        "persistent": false
+    },
+    "page_action": {
+        "default_popup": "popup.html"
+    },
+    "manifest_version": 2
+}
