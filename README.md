@@ -15,7 +15,7 @@
 
 ======================================================================
 # Installation Procedure
-### Do this first then continue according to your operating system platform
+### Do this first before continue according to your operating system platform
 1. Go to this link `https://github.com/OreoBoat/suminyak`
 2. Click **[Download ZIP]**
 
