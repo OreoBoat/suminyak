@@ -9,7 +9,9 @@
 ### If you're on Windows, you don't have to worry too much. As long as your college doesn't change its HTML structure, this extension will still work. (Hopefully)
 > By the way, I'm just a beginner in coding. I apologize if the extension stopped working halfway. In a event of extension working problem, please post your issue to this git's issues tab. Thank you.
 
-### Additional Note: This extension should work on Firefox browser since they all (almost) share the same browser API. But we will be focusing on Chrome and Opera
+### Additional Note: The extension files should be inside of a folder. Please note that if you're on Windows and you try to unzip the `suminyak-master.zip` file. 
+#### You may get the file array like `[Folder\Folder\Extension Files]` which is not something we wanted.
+#### What we need correctly is `[Folder\Extension Files]`. Please check carefully.
 
 ======================================================================
 # Installation Procedure
