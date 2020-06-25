@@ -30,7 +30,7 @@ function ManualMode() {
     var check = supreme.match(regex); //Regex match with supreme.string
     var word = "http://www.icom.org.cn" //Declare website domain link
     var final = word.concat(check); //Join string
-    window.alert(final); //Alert the user of the link
+    alert(final); //Alert the user of the link
     window.open(final);
   }
   
