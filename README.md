@@ -130,9 +130,11 @@ And that's it. Enjoy boiii.
 
 Platform observed : **[Windows] Chrome**
 
-Fixable? : **Impossible to fix since vanilla alert boxes aren't customizable without the implementation of [jquery]. Will consider it in the future** 
+Fixable? : **Impossible to fix since vanilla alert boxes aren't customizable without the implementation of [jquery].** 
 
 [![Image](https://i.ibb.co/8DGQHTt/testsa.jpg)](https://imgbb.com/)
+
+#### Solution
 
 1. You can use press either `[Spacebar]` or `[Enter]` to get pass the alert boxes.
 
