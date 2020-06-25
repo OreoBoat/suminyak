@@ -116,5 +116,24 @@ And that's it. Enjoy boiii.
 ======================================================================
 
 
+## Observed Issues
+
+-----------------------------------------------------------------------
+
+### If the alert boxes is popped out of the window.
+
+Platform observed : **[Windows] Chrome**
+
+Fixable? : **UNKNOWN**
+
+[![Image](https://i.ibb.co/8DGQHTt/testsa.jpg)](https://imgbb.com/)
+
+1. You can use press either `[Spacebar]` or `[Enter]` to get pass the alert boxes.
+
+2. Or you can also just drag the Chrome browser window onto the left side of your display. Thus allowing the alert boxes to be fully shown.
+
+[![Image](https://i.ibb.co/ySGWm1p/new.jpg)](https://imgbb.com/)
+
+
 
 
