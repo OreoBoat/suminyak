@@ -6,7 +6,7 @@
 ## Status
 
 > ### macOS Chrome   : Working, no issue observed.
-> ### Windows Chrome : Working, but issue observed. Please see this [section](##observed-Issues)
+> ### Windows Chrome : Working, but issue observed. Please see this [section](#observed-Issues)
 > ### Windows Opera  : Working, no issue observed.
 
 
