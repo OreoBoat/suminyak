@@ -130,7 +130,7 @@ And that's it. Enjoy boiii.
 
 Platform observed : **[Windows] Chrome**
 
-Fixable? : **UNKNOWN**
+Fixable? : **Impossible to fix since vanilla alert boxes aren't customizable without the implementation of [jquery]. Will consider it in the future** 
 
 [![Image](https://i.ibb.co/8DGQHTt/testsa.jpg)](https://imgbb.com/)
 
