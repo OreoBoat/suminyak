@@ -3,7 +3,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-grammas-recipe.svg)](https://forthebadge.com)
 
-# THINGS TO NOTE
+# Things to Note
 ### If you're on macOS, please note that although Opera uses chromium-based (Google) browser engine. This extension will not work on macOS-based Opera browser (except Windows).
 
 ### If you're on Windows, you don't have to worry too much. As long as your college doesn't change its HTML structure, this extension will still work. (Hopefully)
