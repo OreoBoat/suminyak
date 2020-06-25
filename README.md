@@ -15,7 +15,7 @@
 
 ======================================================================
 # Installation Procedure
-### Do this first before continue according to your operating system platform
+## Do this first before continuing according to your operating system platform
 1. Go to this link `https://github.com/OreoBoat/suminyak`
 2. Click **[Download ZIP]**
 
@@ -24,7 +24,7 @@
 3. After the download is completed, unzip it and place it to your desired location.
 4. Then you're done here, please continue according to your OS platform below.
 
-## macOS extension installation
+### macOS extension installation
 1. Download Chrome if you haven't already. (Go to step 4 if you have installed chrome on your macOS)
 2. Go to https://www.google.com/chrome/ and click [Download Chrome]
 3. After download complete, install the software as usual.
@@ -39,12 +39,12 @@
 
 -----------------------------------------------------------------------
 
-## Windows extension installation
+### Windows extension installation
 > Well you have two choices. One being **Chrome**, while another one is **Opera** or **Opera GX** 
 
 > They are technically the same browser but just use the one that suits your taste.
 
-## Opera or Opera GX or Chrome extension installation (Windows)
+### Opera or Opera GX or Chrome extension installation (Windows)
 1. Download Opera or Opera GX or Chrome if you haven't. (I'm going to skip the software installation step)
 2. Fire up your browser and go to the [Extensions] tab. 
 3. If you are having trouble to find the [Extensions] tab. Just open up a new tab and paste this `chrome://extensions`.
@@ -61,16 +61,16 @@
 ## Extension not showing up
 If you cannot see your extension in the toolbar, you need to pin it.
 
-For **Chrome** (Applies to **macOS** and **Windows**)
+### For Chrome (Applies to macOS and Windows)
 
 [![Image](https://i.ibb.co/jyzYsHb/Screenshot-2563-06-25-at-6-24-39-PM.png)](https://imgbb.com/)
 
 
-For **Opera**
+### For Opera
 
 [![Image2](https://i.ibb.co/hKdRM8n/Screenshot-2563-06-25-at-6-40-56-PM.png)](https://imgbb.com/)
 
-For **Opera GX**
+### For Opera GX
 > The extension will be pinned automatically but if somehow it's not showing up)
 1. Navigate to `opera://extensions`
 2. Click the [Details] below of the [Composer Soon] extension
@@ -83,7 +83,7 @@ Typically this extension won't do anything until the website you are surfing mat
 1. So just login to your coda as usual. 
 2. Then, once you're in the [Semester] Page. We'll have to part ways for **Chrome** and **Opera or Opera GX** now.
 
-For **Chrome**
+### For Chrome
 > Your college has set a special function called `return popup2` instead of the standard `<a href>` that basically call a new popup window once you click the `bahbah.pdf` link on the [Semester] page. Making all the toolbar being disappeared on the new popup page.
 
 If you don't understand anything above, it's okay. 
@@ -100,7 +100,7 @@ You **don't** have to copy it, just press [Ok] then the link will be opened in a
 
 Finally, if you have enabled the PDF automatic download option. You should have the pdf file downloaded right away!
 
-For **Opera or Opera GX**
+### For Opera or Opera GX
 
 > Actually, this browser is a bit special that it still has the toolbar present after loading up popup windows.
 
@@ -130,7 +130,7 @@ Fixable? : **UNKNOWN**
 
 1. You can use press either `[Spacebar]` or `[Enter]` to get pass the alert boxes.
 
-2. Or you can also just drag the Chrome browser window onto the left side of your display. Thus allowing the alert boxes to be fully shown.
+2. Or you can also just drag the Chrome browser window onto the left side of your display. Thus, allowing the alert boxes to be fully shown.
 
 [![Image](https://i.ibb.co/ySGWm1p/new.jpg)](https://imgbb.com/)
 
