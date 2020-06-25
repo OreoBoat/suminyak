@@ -40,7 +40,7 @@
 -----------------------------------------------------------------------
 
 ### Windows extension installation
-> Well you have two choices. One being **Chrome**, while another one is **Opera** or **Opera GX** 
+> Well you have two choices. One being **Chrome**, while another one is **Opera** or **Opera GX**.
 
 > They are technically the same browser but just use the one that suits your taste.
 
