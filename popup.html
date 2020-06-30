@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <link rel="stylesheet" href="css/bootstrap.min.css">
+        <style>
+            body {
+                width: 390px;
+                height: auto;
+            }
+        </style>
+        </head>
+        <body>
+            <div id="Info" class="alert alert-info alert-dismissible fade show mb-0"> 
+                <div id="Sets" style="width: 355px;">
+                    <img id="Settings" src="https://img.icons8.com/offices/25/000000/services.png" style="float:right"/>
+                </div>
+                <h5><strong>Remember!</strong></h5>
+                <div class="text-justify" style="width: 345px;">
+                    Only click the <kbd>[Music!]</kbd> button once you're at the assessment viewer page!
+                </div>
+            </div>
+            <div id="Autodiv" class="alert alert-primary alert-dismissible fade show mb-0" style="display: none;">
+                <div id="Autobtn" style="width: 355px;">
+                    <img id="btnAuto" src="https://img.icons8.com/plasticine/40/000000/toggle-off.png" style="float:right; display: none;"/>
+                    <img id="btnAutoActive" src="https://img.icons8.com/plasticine/40/000000/toggle-on.png" style="float:right; display: none;"/>
+                </div>
+                <div id="notifypdf" style="width: 300px;">
+                </div>
+            </div>
+            <div id="Stylediv" class="alert alert-warning alert-dismissible fade show mb-0" style="display: none;">
+                <div id="Stylebtn" style="width: 355px;">
+                    <img id="btnStyle" src="https://img.icons8.com/plasticine/40/000000/toggle-off.png" style="float:right; display: none;"/>
+                    <img id="btnStyleActive" src="https://img.icons8.com/plasticine/40/000000/toggle-on.png" style="float:right; display: none;"/>
+                </div>
+                <div id="notifystyle" style="width: 300px;">
+                </div>
+            </div>
+            <div id="Kingdiv" class="alert alert-success alert-dismissible fade show mb-0" style="display: none;">
+                <div id="Kingbtn" style="width: 355px;">
+                    <img id="btnKing" src="https://img.icons8.com/plasticine/40/000000/toggle-off.png" style="float:right; display: none;"/>
+                    <img id="btnKingActive" src="https://img.icons8.com/plasticine/40/000000/toggle-on.png" style="float:right; display: none;"/>
+                </div>
+                <div id="notifyKing" style="width: 300px;">
+                <strong>Bypass all settings. Download and rename pdf files while no links will be opened or redirected!</strong>
+                </div>
+            </div>
+            <div id="keepLoading" class="alert alert-warning alert-dismissible fade show mb-0" style="display: none;">
+                <h5><strong>Attention!</strong></h5>
+                <div class="text-justify" style="width: 345px;">
+                    If the extension keeps loading, you should restart the capturing process. Just click anywhere in the browser to close this extension window then you can restart the process again.
+                </div>
+            </div>
+            <div id="Reminder" class="alert alert-danger alert-dismissible fade show mb-0" style="display: none;">
+                <h5><strong>Remember!</strong></h5>
+                <div class="text-justify" style="width: 345px;">
+                    Let the webpage loads up a bit first before clicking the <kbd>[Music!]</kbd> button. You don't have to wait until it fully-loads, just a couple seconds will do the trick.
+                </div>
+            </div>
+            <div id="Warning" class="alert alert-warning alert-dismissible fade show mb-0" style="display: none;">
+                <div class="text-center" style="width: 345px;"><h5><kbd>Do not close this window!</kbd></h5></div>
+            </div>
+            <div id="Success" class="alert alert-success alert-dismissible fade show mb-0" style="display: none;">
+                <h5><strong>Success!</strong></h5>
+                <div id="notifydone" class="text-justify" style="width: 345px;">
+                    Internal PDF link has been grabbed! The new link will be opened <strong>in 3 seconds</strong>.
+                </div>
+            </div>
+            <div id="Error" class="alert alert-danger alert-dismissible fade show mb-0" style="display: none;">
+                <h5><strong>Error!</strong></h5>
+                <div class="text-justify" style="width: 345px;">
+                    Syntax returned <strong>"null"</strong>.<br>Please ensure that you're on the assesment page before clicking the <kbd>[Music!]</kbd> button <strong>and also let the page loads a bit first!</strong>
+                </div>
+            </div>
+            <div id="btnA" class="text-center" style="margin: 15px;">
+                <button id="Manual" type="button" class="btn btn-outline-info">Music!</button>
+            </div>
+            <div id="btnSets" class="text-center" style="display: none; margin: 15px;">
+                <button id="Goback" type="button" class="btn btn-outline-dark">Go Back!</button>
+            </div>
+            <div id="Spinner" class="text-center" style="display: none; margin: 15px;">
+            <button class="btn btn-primary">
+                <span class="spinner-border spinner-border-sm"></span>
+                Please Wait...
+              </button>
+            </div>
+            <div id="Disabled" class="text-center" style="display: none; margin: 15px;">
+                <button type="button" class="btn btn-warning" disabled><strong>Error encountered</strong></button>
+            </div>
+            <div id="Yahoo" class="text-center" style="display: none; margin: 15px;">
+                <button id="testagain" type="button" class="btn btn-success" disabled>Success!</button>
+            </div>
+            <script src="jquery.js"></script>
+            <script src="popper.min.js"></script>
+            <script src="js/bootstrap.min.js"></script>
+            <script src="popup.js"></script>
+    </body>
+</html>
