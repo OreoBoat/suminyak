@@ -87,7 +87,7 @@ If you don't understand anything above, it's okay.
 
 Just before you click the juicy `.pdf` link to your assessment or course description.
 
-Press and hold down [`⌘` for macOS, `CTRL` for Windows] while left-click the `.pdf` link. So that the pdf link will be **opened in a new tab** rather than a **new popup window**.
+Press and hold down [`⌘` for macOS, `CTRL` for Windows] while `[left-click the]` `.pdf` link. So that the pdf link will be **opened in a new tab** rather than a **new popup window**.
 
 Then once the page loads a bit, you can just click the *juicy* Soon head icon from the top-right.
 
