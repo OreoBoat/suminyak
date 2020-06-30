@@ -12,18 +12,18 @@
 
 
 ## Things to Note
-### Starting from version 2.1, you can now use this extension in macOS opera. Plus a little add-on of options settings.
+### Starting from version 2.1, you can now use this extension in macOS Opera. Plus a little add-on of options settings.
 ### You don't have to worry too much. As long as your college doesn't change its HTML structure, this extension will still work. (Hopefully)
 > By the way, I'm just a beginner in coding. I apologize if the extension stopped working halfway. In a event of extension working problem, please post your issue to this git's issues tab. Thank you.
 
-### Additional Note: The extension files should be inside of a folder. Please note that if you're on Windows and you try to unzip the `suminyak-master.zip` file. 
+### Additional Note: The extension files should be inside of a folder. Please note that if you're on Windows and you try to unzip the `suminyak-xxx.zip` file. 
 #### You may get the file array like `[Folder\Folder\Extension Files]` which is not something we wanted.
 #### What we need correctly is `[Folder\Extension Files]`. Please check carefully.
 
 ======================================================================
 # Installation Procedure
 ### Do this first before continuing according to your operating system platform
-1. Go to this link `https://github.com/OreoBoat/suminyak`
+1. Go to this link `https://github.com/OreoBoat/suminyak/tree/beta`
 2. Click **[Download ZIP]**
 
 [![Image](https://i.ibb.co/TRPzYt3/Screenshot-2563-06-25-at-7-18-09-PM.png)](https://ibb.co/q9mb7pQ)
